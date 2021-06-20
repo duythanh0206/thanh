@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>scar &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/scar/feed/?v=e14da64a5617" rel="self" type="application/rss+xml" />
+	<link>https://duythanh0206.github.io/thanh</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 20 Jun 2021 08:59:09 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>SCAR TITAN</title>
+		<link>https://duythanh0206.github.io/thanh/sản%20phẩm/scar-titan/</link>
+					<comments>https://duythanh0206.github.io/thanh/sản%20phẩm/scar-titan/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Sun, 20 Jun 2021 08:59:08 +0000</pubDate>
+				<guid isPermaLink="false">https://duythanh0206.github.io/thanh/?post_type=product&#038;p=27</guid>
+
+					<description><![CDATA[Nếu Bạn yêu thích phong cách "Cool ngầu"  thì không thể bỏ qua nó, với hình dáng và màu sắc thật là phá cách sẽ khiến bạn mê mẫn không còn chê vào đâu .]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone size-full wp-image-28" src="https://duythanh0206.github.io/thanh/wp-content/uploads/2021/06/stt.png" alt="scra" width="234" height="293" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://duythanh0206.github.io/thanh/sản%20phẩm/scar-titan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

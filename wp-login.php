@@ -85,7 +85,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-aj
 </script>
 <script src="https://duythanh0206.github.io/thanh/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"c117ac2320"};
+var userProfileL10n = {"user_id":"0","nonce":"5c5d5c8e76"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {

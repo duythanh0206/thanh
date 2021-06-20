@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/feed/?v=e14da64a5617" rel="self" type="application/rss+xml" />
 	<link>https://duythanh0206.github.io/thanh</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Wed, 16 Jun 2021 04:02:20 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 20 Jun 2021 09:11:23 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -52,7 +52,7 @@
 		
 			</item>
 		<item>
-		<title>Giới thiệu về sơ qua về WEB</title>
+		<title>TRANG CHỦ</title>
 		<link>https://duythanh0206.github.io/thanh/2021/06/16/gioi-thieu-ve-so-qua-ve-web/</link>
 					<comments>https://duythanh0206.github.io/thanh/2021/06/16/gioi-thieu-ve-so-qua-ve-web/#respond</comments>
 		
@@ -61,23 +61,15 @@
 				<category><![CDATA[Chưa phân loại]]></category>
 		<guid isPermaLink="false">https://duythanh0206.github.io/thanh/?p=5</guid>
 
-					<description><![CDATA[Giao diện mới vào sẽ như thế này TO BE KO TÌNH YÊU]]></description>
+					<description><![CDATA[TO BE KO TÌNH YÊU KHÔNG THỂ THOÁT RỒI , CÒN CHẦN CHỜ GÌ NỮA MÀ KHÔNG MUA]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" width="1368" height="768" src="https://duythanh0206.github.io/thanh/wp-content/uploads/2021/06/word-preess-1.png" alt="" class="wp-image-6"/></figure>
-
-
-
-<p>Giao diện mới vào sẽ như thế này </p>
-
-
-
 <div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><video controls src="https://duythanh0206.github.io/thanh/wp-content/uploads/2021/06/May-khong-thoat-duoc-dau-con-trai-to-be-continued.mp4"></video></figure><div class="wp-block-media-text__content">
 <p class="has-large-font-size">TO BE KO TÌNH YÊU</p>
 </div></div>
 
 
 
-<p></p>
+<p>KHÔNG THỂ THOÁT RỒI , CÒN CHẦN CHỜ GÌ NỮA MÀ KHÔNG MUA</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://duythanh0206.github.io/thanh/2021/06/16/gioi-thieu-ve-so-qua-ve-web/feed/</wfw:commentRss>
@@ -87,7 +79,7 @@
 
 			</item>
 		<item>
-		<title>Chào tất cả mọi người!</title>
+		<title>CÁM ơn đã ghé thăm</title>
 		<link>https://duythanh0206.github.io/thanh/2021/06/15/chao-moi-nguoi/</link>
 					<comments>https://duythanh0206.github.io/thanh/2021/06/15/chao-moi-nguoi/#comments</comments>
 		
@@ -96,13 +88,13 @@
 				<category><![CDATA[Chưa phân loại]]></category>
 		<guid isPermaLink="false">https://duythanh0206.github.io/thanh/?p=1</guid>
 
-					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
+					<description><![CDATA[Cám ơn đã ghé thăm SHOP]]></description>
 										<content:encoded><![CDATA[
-<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
+<p>Cám ơn đã ghé thăm SHOP</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://duythanh0206.github.io/thanh/2021/06/15/chao-moi-nguoi/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 			</item>
