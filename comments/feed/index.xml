@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Bình luận cho My WordPress	</title>
+	Bình luận cho Thanh Revue	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/?v=e14da64a5617" rel="self" type="application/rss+xml" />
 	<link>https://duythanh0206.github.io/thanh</link>
-	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Fri, 02 Jul 2021 14:52:39 +0000</lastBuildDate>
+	<description>Mới mẽ lung linh lấp lánh và mê mẫn</description>
+	<lastBuildDate>Sun, 04 Jul 2021 09:52:30 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>user1 &#8211; My WordPress</title>
+	<title>user1 &#8211; Thanh Revue</title>
 	<atom:link href="http://localhost/myproject/wordpress/author/user1/feed/?v=e14da64a5617" rel="self" type="application/rss+xml" />
 	<link>https://duythanh0206.github.io/thanh</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description>Mới mẽ lung linh lấp lánh và mê mẫn</description>
 	<lastBuildDate>Fri, 02 Jul 2021 14:52:39 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
