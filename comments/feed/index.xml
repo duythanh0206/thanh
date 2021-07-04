@@ -11,39 +11,11 @@
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/?v=e14da64a5617" rel="self" type="application/rss+xml" />
 	<link>https://duythanh0206.github.io/thanh</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sun, 20 Jun 2021 09:12:58 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 Jul 2021 14:52:39 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
-	<item>
-		<title>
-		Phản hồi cho CÁM ơn đã ghé thăm bởi user1		</title>
-		<link>https://duythanh0206.github.io/thanh/2021/06/15/chao-moi-nguoi/#comment-2</link>
-
-		<dc:creator><![CDATA[user1]]></dc:creator>
-		<pubDate>Sun, 20 Jun 2021 09:12:58 +0000</pubDate>
-		<guid isPermaLink="false">https://duythanh0206.github.io/thanh/?p=1#comment-2</guid>
-
-					<description><![CDATA[HAY]]></description>
-			<content:encoded><![CDATA[<p>HAY</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
-		<title>
-		Phản hồi cho CÁM ơn đã ghé thăm bởi atto		</title>
-		<link>https://duythanh0206.github.io/thanh/2021/06/15/chao-moi-nguoi/#comment-1</link>
-
-		<dc:creator><![CDATA[atto]]></dc:creator>
-		<pubDate>Tue, 15 Jun 2021 08:03:13 +0000</pubDate>
-		<guid isPermaLink="false">https://duythanh0206.github.io/thanh/?p=1#comment-1</guid>
-
-					<description><![CDATA[Khá TỐt UY Tính]]></description>
-			<content:encoded><![CDATA[<p>Khá TỐt UY Tính</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>
